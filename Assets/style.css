@@ -1,0 +1,50 @@
+header nav {
+  display: flex;
+  background-color: rgb(168, 151, 22);
+  justify-content: space-between;
+  align-items: center;
+}
+header nav ul {
+  display: flex;
+}
+header nav ul li {
+  list-style-type: none;
+  margin-right: 2em;
+  font-size: 1.5em;
+}
+header nav div {
+  margin-right: 2em;
+}
+header nav button {
+  padding: 0.5em;
+  background-color: rgb(247, 0, 0);
+  border-radius: 1em;
+}
+header nav button:hover {
+  color: rgb(252, 149, 13);
+  background-color: rgb(2, 17, 78);
+}
+header section {
+  background-color: rgb(233, 215, 50);
+  display: flex;
+}
+header section h1 {
+  text-align: center;
+}
+header section h3 {
+  text-align: center;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+header section img {
+  height: 20em;
+  width: 50%;
+  margin-left: 4.7em;
+  margin-top: 2em;
+  padding-bottom: 1em;
+  padding-right: 1em;
+}
+header table tr td img {
+  width: 50%;
+  height: 50%;
+}/*# sourceMappingURL=style.css.map */
